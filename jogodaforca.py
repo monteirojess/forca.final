@@ -1,6 +1,5 @@
 from random import choice
 print('''
-    GRUPO: ANNE RAYSSA, ANGELA BERNADELLI E JESSICA MONTEIRO
     BEM VINDO (A) AO JOGO DA FORCA !
     O objetivo deste jogo é descobrir uma palavra adivinhando as letras que ela possui. 
     A cada rodada, os jogadores irão simultaneamente escolher uma letra que suspeitem fazer parte da palavra. 
